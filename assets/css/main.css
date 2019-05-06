@@ -87,7 +87,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #2e3842;
+		background: #151515;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -1944,7 +1944,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #2e3842;
+			background: #151515;
 			color: #fff;
 			content: '\f00c';
 		}
