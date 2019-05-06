@@ -3127,11 +3127,11 @@ input, select, textarea {
 		}
 
 			.wrapper.style5 strong, .wrapper.style5 b {
-				color: #2E3842;
+				color: #151515;
 			}
 
 			.wrapper.style5 h2, .wrapper.style5 h3, .wrapper.style5 h4, .wrapper.style5 h5, .wrapper.style5 h6 {
-				color: #2E3842;
+				color: #151515;
 			}
 
 			.wrapper.style5 hr {
@@ -3159,7 +3159,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style5 label {
-				color: #2E3842;
+				color: #151515;
 			}
 
 			.wrapper.style5 input[type="text"],
@@ -3175,7 +3175,7 @@ input, select, textarea {
 			}
 
 				.wrapper.style5 select option {
-					color: #2E3842;
+					color: #151515;
 					background: #ffffff;
 				}
 
