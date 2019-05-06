@@ -2955,7 +2955,7 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background-color: #2e3842;
+			background-color: #151515;
 		}
 
 		.wrapper.style3 {
@@ -3191,7 +3191,7 @@ input, select, textarea {
 
 			.wrapper.style5 input[type="checkbox"]:checked + label:before,
 			.wrapper.style5 input[type="radio"]:checked + label:before {
-				background: #2E3842;
+				background: #151515;
 				color: #ffffff;
 			}
 
@@ -3232,7 +3232,7 @@ input, select, textarea {
 				}
 
 			.wrapper.style5 table th {
-				color: #2E3842;
+				color: #151515;
 			}
 
 			.wrapper.style5 table thead {
@@ -3253,7 +3253,7 @@ input, select, textarea {
 			.wrapper.style5 button,
 			.wrapper.style5 .button {
 				box-shadow: inset 0 0 0 2px #dfdfdf;
-				color: #2E3842;
+				color: #151515;
 			}
 
 				.wrapper.style5 input[type="submit"]:hover,
@@ -3673,7 +3673,7 @@ input, select, textarea {
 			-ms-transition-delay: 1.25s;
 			transition-delay: 1.25s;
 			content: '';
-			background: #2e3842;
+			background: #151515;
 			display: block;
 			width: 100%;
 			height: 100%;
