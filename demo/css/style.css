@@ -1,0 +1,134 @@
+/*Website Template by freewebsitetemplates.com*/
+
+
+body {
+	background: #f2f2f2;
+	color: #797979;
+	font-family: 'OpenSans-Light';
+	font-weight: normal;
+	line-height: 1;
+	margin: 0;
+	min-width: 960px;
+	padding: 0;
+}
+#header {
+    background-color:rad;
+	
+	margin: 0;
+	padding: 0;
+}
+#header div {
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+	width: 960px;
+}
+#header div span {
+	color: #fff;
+	font-family: 'Arapey';
+	font-size: 14px;
+	display: block;
+	float: left;
+	margin: 0;
+	padding: 50px 49px 0 0;
+	text-align: right;
+	width: 331px;
+}
+
+
+#body {
+	margin: 0;
+	padding: 28px 0 46px 0;
+}
+
+#body .header div {
+	background: url(../images/shadow.png) no-repeat bottom left;
+	margin: 0 auto;
+	padding: 0 10px 38px;
+	position: relative;
+	width: 940px;
+}
+
+#body .body {
+	background: #fff url(../images/border-bottom.gif) repeat-x bottom left;
+	margin: 0;
+	padding: 0 0 20px;
+}
+
+#body .footer {
+	margin: 0 auto;
+	padding: 29px 0 0;
+	overflow: hidden;
+	width: 960px;
+}
+#body .footer div {
+	background: #fff;
+	border: 1px solid #cdcdcd;
+	border-radius: 6px;
+	float: left;
+	margin: 0 10px;
+	padding: 0;
+	width: 298px;
+}
+#body .footer div h3 {
+	background: url(../images/dots.gif) no-repeat bottom center;
+	color: #144879;
+	font-family: 'Arapey';
+	font-size: 18px;
+	font-weight: normal;
+	margin: 0;
+	padding: 18px 0 21px;
+	text-align: center;
+	text-transform: capitalize;
+}
+#body .footer div p {
+	color: #797979;
+	font-size: 13px;
+	line-height: 24px;
+	margin: 0;
+	padding: 13px 20px 19px;
+	text-align: center;
+}
+#body .footer div p a {
+	color: #797979;
+	text-decoration: underline;
+}
+#body .footer div p a:hover {
+	color: #333;
+}
+#body .content {
+	background: #fff url(../images/bg-sidebar.gif) repeat-y top right;
+	border: 1px solid #cdcdcd;
+	border-radius: 6px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+	width: 938px;
+}
+#body .content #section, #body .content #blog {
+	float: left;
+	margin: 0;
+	padding: 37px 29px 29px;
+	width: 570px;
+}
+#body h2 {
+	
+	font-family: 'Arapey';
+	font-size: 24px;
+	font-weight: normal;
+	margin: 0;
+	padding: 0 0 21px;
+	text-transform: capitalize;
+}
+#footer {
+	background: url(../images/bg-footer.jpg) repeat-x top left;
+	margin: 0;
+	padding: 23px 0 21px;
+}
+#footer div {
+	margin: 0 auto;
+	height: 27px;
+	overflow: hidden;
+	padding: 0;
+	width: 960px;
+}
